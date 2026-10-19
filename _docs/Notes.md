@@ -79,20 +79,3 @@ Thanks to this flag you can specify the ciruclant side at compilation time and o
 Please pay attention because for the compilation are required the constant for the inversion algorithm.   
 At compile time use `-DR_BITS=<VALUE>`.  
 
-### `BUILD_DFR_TEST`
-
-
-### `USE_CPCUCYCLES`
-
-Run the benchmark with `libcpucylces`
-
-
-
-
-## Circulant Sides
-
-
-## Benchmark
-
-For the benchmarks on the NUMA server (Wrat) we need the package `numactl`
-
