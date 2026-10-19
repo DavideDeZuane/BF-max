@@ -19,7 +19,7 @@
 
 // This part defines the functions and macros needed to measure using RDTSC
 #  if !defined(REPEAT)
-#    define REPEAT 100
+#    define REPEAT 10
 #  endif
 
 #  if !defined(OUTER_REPEAT)
